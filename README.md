@@ -1,4 +1,4 @@
-# BernabeuPLoSCompBio2017
+# PolNet Analysis: a software tool for the quantification of network-level endothelial cell polarity and blood flow during vascular remodelling
 PolNet's graphical user interface and main pre- and post-processing algorithms. This repository contains the source code needed to build the PolNet application. You may find it easier to take a look at our [Docker containers](https://hub.docker.com/r/mobernabeu/polnet/) including a prepackaged installation of PolNet rather that building your own from source. The requirements/instructions below correspond to a PolNet installation from source.
 
 ## Requirements
